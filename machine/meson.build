@@ -10,3 +10,9 @@ exe = executable(
   dependencies: v6502_dep,
   install: true
 )
+
+exe = executable(
+  'vmb-inputtest', 'inputtest.cpp',
+  dependencies: v6502_dep,
+  install: true
+)
