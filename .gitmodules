@@ -1,0 +1,3 @@
+[submodule "machine/subprojects/v6502"]
+	path = machine/subprojects/v6502
+	url = https://github.com/itsvic-dev/v6502.git
